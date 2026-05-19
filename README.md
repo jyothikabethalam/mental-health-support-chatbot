@@ -171,4 +171,15 @@ If you need help with the technical setup:
 
 ---
 
+## 📸 Project Screenshots
+
+### Home Interface
+![Home UI](screenshots/Screenshot%20(229).png)
+
+### Chat Conversation
+![Chat UI](screenshots/Screenshot%20(230).png)
+
+### Mood Tracking Dashboard
+![Mood Dashboard](screenshots/Screenshot%20(231).png)
+
 **Remember: It's okay to ask for help. You're not alone. 💙**
